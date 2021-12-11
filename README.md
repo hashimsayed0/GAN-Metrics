@@ -1,6 +1,6 @@
-# GAN Metrics
+# Generalization Error of GANs
 
-This repository provides the code for [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/abs/1806.07755).
+This repository is built upon https://github.com/xuqiantong/GAN-Metrics
 
 Requirement
 ------
